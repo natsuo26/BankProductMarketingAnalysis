@@ -1,6 +1,6 @@
 # **Bank Product Marketing Analysis**
 
-## *This is a repository for my mini-project, Bank Product Market Analysis.*
+## *This is a repository for my mini-project, Bank Product Marketing Analysis.*
 
 
 ### Project: Bank Product Marketing Analysis
